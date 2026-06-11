@@ -10,6 +10,7 @@ With that said, some of the repos here may be useful to you, and if so, that's g
 
 ## My projects
 
+- **[GitCalVer](https://gitcalver.org)**: generate version numbers based only on repo state
 - **[freshl](https://github.com/shields/freshl)**: `ls(1)` replacement with git awareness
 - **[git-prompt-watcher](https://github.com/shields/git-prompt-watcher)**: oh-my-zsh plugin that refreshes your prompt when git status changes
 - **[hoboken](https://github.com/shields/hoboken)**: Minimal HomeKit-to-MQTT bridge
