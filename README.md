@@ -1,4 +1,4 @@
-Please note:
+## What to expect here
 
 - These repos do _not_ form a portfolio.
 - These repos are not typical or representative of my best work.
@@ -8,7 +8,7 @@ Please note:
 
 With that said, some of the repos here may be useful to you, and if so, that's great.
 
-## My projects
+## Original work
 
 - **[GitCalVer](https://gitcalver.org)**: generate version numbers based only on repo state
 - **[freshl](https://github.com/shields/freshl)**: `ls(1)` replacement with git awareness
