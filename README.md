@@ -15,6 +15,7 @@ With that said, some of the repos here may be useful to you, and if so, that's g
 - **[git-prompt-watcher](https://github.com/shields/git-prompt-watcher)**: oh-my-zsh plugin that refreshes your prompt when git status changes
 - **[hoboken](https://github.com/shields/hoboken)**: Minimal HomeKit-to-MQTT bridge
 - **[lgtmcp](https://github.com/shields/lgtmcp)**: MCP server for AI-powered code review
+- **[mink-lasso](https://github.com/shields/mink-lasso)**: Masso Link replacement, transfer files to CNC machines
 - **[raycast-charp](https://github.com/shields/raycast-charp)**: Raycast extension for finding and inserting Unicode characters
 - **[trackage](https://github.com/shields/trackage)**: CLI for tracking physical-package shipments
 - **[unifi-sync](https://github.com/shields/unifi-sync)**: Manage UniFi configuration as code, without Terraform
