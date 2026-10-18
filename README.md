@@ -13,9 +13,10 @@ With that said, some of the repos here may be useful to you, and if so, that's g
 - **[GitCalVer](https://gitcalver.org)**: generate version numbers based only on repo state
 - **[freshl](https://github.com/shields/freshl)**: `ls(1)` replacement with git awareness
 - **[git-prompt-watcher](https://github.com/shields/git-prompt-watcher)**: oh-my-zsh plugin that refreshes your prompt when git status changes
+- **[ghist](https://github.com/shields/ghist)**: `git log` replacement
 - **[hoboken](https://github.com/shields/hoboken)**: Minimal HomeKit-to-MQTT bridge
 - **[lgtmcp](https://github.com/shields/lgtmcp)**: MCP server for AI-powered code review
-- **[mink-lasso](https://github.com/shields/mink-lasso)**: Masso Link replacement, transfer files to CNC machines
+- **[mink-lasso](https://github.com/shields/mink-lasso)**: Transfer files to Masso CNC machines
 - **[raycast-charp](https://github.com/shields/raycast-charp)**: Raycast extension for finding and inserting Unicode characters
 - **[trackage](https://github.com/shields/trackage)**: CLI for tracking physical-package shipments
 - **[unifi-sync](https://github.com/shields/unifi-sync)**: Manage UniFi configuration as code, without Terraform
@@ -27,6 +28,6 @@ With that said, some of the repos here may be useful to you, and if so, that's g
 
 ## Miscellaneous
 
-- **[dotfiles](https://github.com/shields/dotfiles)**: macOS provisioning and personal dotfiles
+- **[dotfiles](https://github.com/shields/dotfiles)**: Setup for interactive environments on macOS and Linux
 - **[right-answers](https://github.com/shields/right-answers)**: Cross-project coding conventions and best practices
 - **[saseat](https://github.com/shields/saseat)**: Wedding seating-chart generator using simulated annealing (archived)
